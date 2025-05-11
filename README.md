@@ -15,9 +15,4 @@
 - Python 3.x
 - `pyttsx3` library
 
-## 📦 Installation
 
-1. **Clone the repository** (or download the file):
-   ```bash
-   git clone https://github.com/your-username/voicify.git
-   cd voicify
